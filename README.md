@@ -6,8 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://eltin182.netlify.app/)
-
+[🔗 Clique aqui para acessar](https://eltin182.com.br/)
 
 ## 🛠 Tecnologias
 
